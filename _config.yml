@@ -6,21 +6,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Mehrdad Tamiji
 title: CV
 email: mehrdad.tamiji@gmail.com
-phone: +98
-website: github.io
+phone: Your phone number (optional)
+website: Your website (eg. https://google.com)(optional)
 
 # Social links
-github_username:  GitHub
-linkedin_username: linkdin
+github_username:  jekyll
+linkedin_username: jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am graduate student of UT.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Listsssssssssss
+    - Lists
     - Tables
     - Links
     - Images
