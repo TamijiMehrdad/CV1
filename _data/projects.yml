@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
