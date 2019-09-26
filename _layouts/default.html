@@ -20,6 +20,10 @@
         {%- include experience.html -%}
       {%- endif -%}
 
+      {%- if site.data.interests.size > 0 -%}
+        {%- include interests.html -%}
+      {%- endif -%}
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
