@@ -1,9 +1,178 @@
 # Project template
 - layout: left
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Bayesian Inference
+  github: Github page for project
   quote: >
-    Short overview of the project (optional)
+    Developed in R
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Implementation of Bayesian hierarchical model, Gaussian and Laplace approximation to examine effect of poisons with different concentration on mouse population
+
+- layout: left
+  name: Bayesian Inference
+  github: Github page for project
+  quote: >
+    Developed in R
+  description: | # this will include new lines to allow paragraphs
+    Implementation of Empirical Bayes and Dirichlet process on response time datas
+
+- layout: left
+  name: Bayesian Inference
+  github: Github page for project
+  quote: >
+    Developed in R
+  description: | # this will include new lines to allow paragraphs
+    Implementation of MCMC, Gibbs Sampling and Metropolis-Hastings for examining the effect of a new educational system on students
+- layout: left
+  name: 
+  github: Github page for project
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    
+- layout: left
+  name: Bioinformatics Algorithms
+  github: Github page for project
+  quote: >
+    Developed in MATLAB
+  description: | # this will include new lines to allow paragraphs
+    Examining and implementation of protein interaction networks
+
+- layout: left
+  name: Distributed Algorithms
+  github: Github page for project
+  quote: >
+    Developed in C++
+  description: | # this will include new lines to allow paragraphs
+    Implementation of GHS, a distributed algorithm for minimum-weight spanning trees
+
+- layout: left
+  name: Randomized Algorithms
+  github: Github page for project
+  quote: >
+    developed in Python using NetworkX library
+  description: | # this will include new lines to allow paragraphs
+    Design and implementation of random walks and Markov chains on a graph
+
+- layout: left
+  name: Optimized Combinatorial Algorithms
+  github: Github page for project
+  quote: >
+    Developed in MATLAB
+  description: | # this will include new lines to allow paragraphs
+    Implementation of PSO, genetic, GSA and ant colony meta-heuristic algorithms
+
+- layout: left
+  name: Randomized Algorithms
+  github: Github page for project
+  quote: >
+    Developed in MATLAB
+  description: | # this will include new lines to allow paragraphs
+    Implementation of routing algorithms in hypercube and butterfly networks
+
+- layout: left
+  name: Machine Learning Algorithms
+  github: Github page for project
+  quote: >
+    Developed in MATLAB
+  description: | # this will include new lines to allow paragraphs
+    Implementation of expectation maximization algorithm for medical data
+
+- layout: left
+  name: Machine Learning Algorithms
+  github: Github page for project
+  quote: >
+    Developed in MATLAB
+  description: | # this will include new lines to allow paragraphs
+    Implementation of K-means, KNN algorithms for clustering the population data
+
+- layout: left
+  name: Machine Learning Algorithms
+  github: Github page for project
+  quote: >
+    Developed in Python using Tensorflow
+  description: | # this will include new lines to allow paragraphs
+    Implementation of convolutional neural network for classifying CIFAR-100 data and multi-layer perceptron and gated recurrent network for classifying MNIST data
+
+- layout: left
+  name: Machine Learning Algorithms
+  github: Github page for project
+  quote: >
+    Developed in MATLAB
+  description: | # this will include new lines to allow paragraphs
+    Implementation of Perceptron, Hopfield, Bam, Kohonen, back-propagation network
+
+- layout: left
+  name: User Interface
+  github: Github page for project
+  quote: >
+    Developed in WPF (c#)
+  description: | # this will include new lines to allow paragraphs
+    Design and implementation of a dynamic user interface
+
+- layout: left
+  name: Software Engineering
+  github: Github page for project
+  quote: >
+    Developed in ASP.net
+  description: | # this will include new lines to allow paragraphs
+    Design and implementation of a MVC architecture based e-learning system
+
+- layout: left
+  name: System Analysis and Design
+  github: Github page for project
+  quote: >
+    Developed in WPF (c#) using SQL server
+  description: | # this will include new lines to allow paragraphs
+    Implementation of an off-line real estate system
+
+- layout: left
+  name: Microprocessor
+  github: Github page for project
+  quote: >
+    developed in C using Atmega16A
+  description: | # this will include new lines to allow paragraphs
+    Development of safe lock circuit
+
+- layout: left
+  name: Artificial Intelligence
+  github: Github page for project
+  quote: >
+    Developed in Python
+  description: | # this will include new lines to allow paragraphs
+    Implementation of Minimax algorithm with alpha-beta pruning
+
+- layout: left
+  name: Compiler Design and Construction
+  github: Github page for project
+  quote: >
+    Developed in C++
+  description: | # this will include new lines to allow paragraphs
+    Design and implementation of lexical and syntactic analysis of a compiler for C++ programming language
+
+- layout: left
+  name: 
+  github: Github page for project
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    
+- layout: left
+  name: 
+  github: Github page for project
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  name: 
+  github: Github page for project
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    
+- layout: left
+  name: 
+  github: Github page for project
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
