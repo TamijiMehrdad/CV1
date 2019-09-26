@@ -1,9 +1,30 @@
-# Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Tehran
+  dates: Sept. 2015 - Sept. 2018
+  qualification: MSc. of Computer Engineering, Algorithms and Computation Field
   quote: >
-    Short institution or course description (optional)
+    The oldest and most prestigeous university in Iran
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    GPA: 17.40/20 (3.77/4)
+    Thesis title: Bayesian approach to inferring population structure
+    Under supervision of Dr. Seyed Mamoud Taheri and Dr. Seyed Abolfazl Motahari
+
+- layout: left
+  name: Arak University
+  dates: Sept. 2011 - Sept. 2015
+  qualification: BSc. of Computer Engineering, Software Field
+  quote: >
+    lab lab
+  description: | # this will include new lines to allow paragraphs
+    GPA: 17.06/20 (3.66/4)
+    Thesis title: Design and implementation of multi-agent system in order to take part in Agents in the City
+    Under supervision of Dr. Vahid Rafe
+
+- layout: left
+  name: Shahed High School
+  dates: Sept. 2007 - June 2011
+  qualification: Diploma of Mathematics and Physics Discipline
+  quote: >
+    lab lab
+  description: | # this will include new lines to allow paragraphs
+    GPA: 18.63/20

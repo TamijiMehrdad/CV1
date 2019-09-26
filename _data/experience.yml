@@ -1,10 +1,71 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Department of Computer Engineering, Arak University
+  link: github
+  job_title: 
+  dates: Spring and Summer 2015
   quote: >
-   Short description of the company (optional)
+    Under supervision of Dr. Vahid Rafe
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Design and implementation of multi-agent system in order to take part in Agents in the City
+
+- layout: left
+  company: School of ECE, University of Tehran
+  link: github
+  job_title: 
+  dates: Feb. 2017 - Sept. 2017
+  quote: >
+    Research Assistant in MLCM (Machine Learning and Computational Modeling) Laboratory
+  description: | # this will include new lines to allow paragraphs
+    Base calling implementation for MinION device’s reads using deep learning, a open-source platform like Metrichor
+
+- layout: left
+  company: IBB, University of Tehran
+  link: github
+  job_title: 
+  dates: Spring 2017
+  quote: >
+    Teacher Assistant
+  description: | # this will include new lines to allow paragraphs
+    Bioinformatics
+
+
+- layout: left
+  company: Engineering Science, University of Tehran
+  link: github
+  job_title: 
+  dates: Spring 2017
+  quote: >
+    Teacher Assistant
+  description: | # this will include new lines to allow paragraphs
+    Machine Learning
+
+- layout: left
+  company: Engineering Faculty, Arak University
+  link: github
+  job_title: 
+  dates: Fall 2013
+  quote: >
+    Teacher Assistant
+  description: | # this will include new lines to allow paragraphs
+    Engineering Statistics and Probability
+
+- layout: left
+  company: Engineering Faculty, Arak University
+  link: github
+  job_title: 
+  dates: Fall 2014
+  quote: >
+    Teacher Assistant
+  description: | # this will include new lines to allow paragraphs
+    Compiler Design
+
+
+- layout: left
+  company: 
+  link: github
+  job_title: 
+  dates: 
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs

@@ -1,0 +1,39 @@
+# Technical Skills
+
+- layout: left
+  name: Programming    
+  description: | # this will include new lines to allow paragraphs
+    Expert in C/C++, C#, MATLAB, R
+    Expert in Python (Tensorflow, NetworkX)
+    Familiar with Windows Form Applications and WPF (C#)
+    Familiar with MVC (A Framework for Web Development)
+    Familiar with Web Design (HTML, CSS, JavaScript)
+
+- layout: left
+  name: Operating System    
+  description: | # this will include new lines to allow paragraphs
+    Windows
+    Unix/Linux
+
+- layout: left
+  name: Database System
+  description: | # this will include new lines to allow paragraphs
+    Proficient in SQL, MySQL Developer
+    Proficient in Redgat
+
+- layout: left
+  name: Softwares 
+  description: | # this will include new lines to allow paragraphs
+    Familiar with LATEX
+
+- layout: left
+  name: Languages
+  description: | # this will include new lines to allow paragraphs
+    Persian (native)
+    English (fluent)
+    Arabic (familiar)
+
+- layout: left
+  name: 
+  description: | # this will include new lines to allow paragraph
+    

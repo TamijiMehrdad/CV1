@@ -22,13 +22,7 @@
     Developed in R
   description: | # this will include new lines to allow paragraphs
     Implementation of MCMC, Gibbs Sampling and Metropolis-Hastings for examining the effect of a new educational system on students
-- layout: left
-  name: 
-  github: Github page for project
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-    
+
 - layout: left
   name: Bioinformatics Algorithms
   github: Github page for project
@@ -156,23 +150,3 @@
     
   description: | # this will include new lines to allow paragraphs
     
-- layout: left
-  name: 
-  github: Github page for project
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-
-- layout: left
-  name: 
-  github: Github page for project
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-    
-- layout: left
-  name: 
-  github: Github page for project
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs

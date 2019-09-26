@@ -24,6 +24,14 @@
         {%- include interests.html -%}
       {%- endif -%}
 
+      {%- if site.data.honors.size > 0 -%}
+        {%- include honors.html -%}
+      {%- endif -%}      
+
+      {%- if site.data.skills.size > 0 -%}
+        {%- include skills.html -%}
+      {%- endif -%}  
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}

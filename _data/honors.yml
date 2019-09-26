@@ -1,0 +1,53 @@
+#Honors & Awards
+- layout: left
+  company:  Faculty of Engineering Science
+  link: github
+  job_title: 
+  dates: Sept. 2018
+  quote: >
+    University of Tehran, Tehran, Iran
+  description: | # this will include new lines to allow paragraphs
+    Ranked 5th among students entered in 2015, Algorithms and Computation Field
+
+- layout: left
+  company: Faculty of Engineering Science
+  link: github
+  job_title: 
+  dates: Jan. 2015
+  quote: >
+    University of Tehran, Tehran, Iran
+  description: | # this will include new lines to allow paragraphs
+    Ranked 169 among students entered master program in 2015 (among 15,000 students), Computer Engineering field
+
+- layout: left
+  company: Arak University
+  link: github
+  job_title: 
+  dates: Sept. 2014
+  quote: >
+    Arak, Iran
+  description: | # this will include new lines to allow paragraphs
+    Ranked 3rd among students entered in 2011, Computer Engineering field Faculty of Computer Engineering
+
+- layout: left
+  company: Department of Computer Engineering
+  link: github
+  job_title: 
+  dates: Jan. 2013
+  quote: >
+    Arak, Iran
+  description: | # this will include new lines to allow paragraphs
+    Won ACM Award, ranked 1st among students of Software Engineering
+
+- layout: left
+  company: 
+  link: github
+  job_title: 
+  dates: 
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+
+
+
+ 

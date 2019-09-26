@@ -1,9 +1,12 @@
 
 - layout: top-middle
-  name: A1
+  name: Machine Learning & Machine Vision
 
 - layout: top-middle
-  name: A1
+  name: Bioinformatics & Baysian Inference
 
 - layout: top-middle
-  name: A1
+  name: Data Analysis & Algorithms
+
+- layout: top-middle
+  name: Data Mining
